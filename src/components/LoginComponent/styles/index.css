@@ -1,0 +1,36 @@
+.paper {
+  align-content: center;
+  align-self: center;
+  height:400px;
+  margin-top: 8px;
+  display: "flex";
+  flex-direction: "column";
+  align-items: "center";
+}
+.avatar {
+  position: absolute;
+  margin-left: 180px;
+  background-color: #ececec;
+}
+.form {
+  margin-top: 1px;
+}
+.submit {
+  margin: 3px;
+}
+.sign-in-text {
+  position: relative;
+  top:12px;
+  left: 155px;
+  font-size:30px;
+}
+.signin-incorrect-password {
+  text-align: center;
+  font-size: small;
+  font-family: monospace;
+  color: red;
+}
+
+.form-group {
+padding-left: 120px;
+}

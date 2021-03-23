@@ -1,0 +1,42 @@
+.header-bar {
+  position:fixed;
+  height:64px;
+  background-color: #4051B5;
+  width: 100%;
+  top:0px;
+}
+
+.header-logo {
+  position: absolute;
+  top:20px;
+  left: 70px;
+  background-color: aquamarine;
+  width: 120px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.header-login {
+  position: absolute;
+  top:10px;
+  right:100px;
+}
+.header-login-text {
+  font-size: 18px;
+  color: white;
+  font-weight: 600;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header-text-div {
+  position: absolute;
+  padding-left: 60px;
+  text-align: center;
+  padding-top: 10px;
+}
+.header-text {
+  color: white;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 800;
+}

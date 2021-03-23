@@ -1,0 +1,149 @@
+.sidebar-div {
+  position: absolute;
+  top: 80px;
+  width: 345px;
+  height: 100%;
+  background-color: #e3e2df;
+}
+
+.sidebar-value {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  top: 84px;
+  left: 0px;
+  width: 345px;
+  height: 71px;
+  background: #e3e3e3 0% 0% no-repeat padding-box;
+  mix-blend-mode: multiply;
+  border-radius: 0px 8px 8px 0px;
+  opacity: 1;
+  margin-bottom: 10px;
+}
+
+.sidebar-text {
+  font-size: 24px;
+  color: #1a1a1d;
+  font-family: monospace;
+}
+.font-icon {
+  width: 10px;
+  height: 10px;
+}
+.MenuIcon {
+  padding-top: 10px;
+  width: 100%;
+  height: 60px;
+  background-size: 20px;
+  color: #1a1a1d;
+  padding-left: 25px;
+  padding-right: 10px;
+}
+.header {
+  height: 80px;
+}
+.header-login {
+  position: absolute;
+  right: 100px;
+}
+.header-login-text {
+  font-size: 18px;
+  color: white;
+  font-weight: 600;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.student-dashboard-container {
+  position: fixed;
+  left: 0px;
+  top: 60px;
+  width: 100%;
+  height: 100%;
+  /* background-size: ; */
+  background: transparent url("../../../assets/images//student-dashboard.jpeg");
+}
+
+.student-container {
+  position: fixed;
+  width: 1920px;
+  height: 1080px;
+  background-color: #1a1a1d;
+}
+
+.test-area-div {
+  position: absolute;
+  top: 96px;
+  left: 148px;
+  width: 1366px;
+  height: 808px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 4px 10px #0000001a;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.text-area-question-div {
+  position: relative;
+  width: 100%;
+  height: 188px;
+  overflow-y: auto;
+}
+
+.test-area-answer-div {
+  position: relative;
+  width: 100%;
+  height: 620px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+.text-area-answer-box {
+  width: 1286px;
+  height: 540px;
+  border: none;
+  font-size: 16px;
+  padding: 20px;
+}
+
+.text-area-heading {
+  position: absolute;
+  font-size: 23px;
+  font-family: monospace;
+  margin-top: 23px;
+  font-weight: 800;
+  color: red;
+  left: 20px;
+}
+
+.text-area-body {
+  position: absolute;
+  font-size: 18px;
+  font-family: cursive;
+  left: 30px;
+  top: 45px;
+}
+
+.submit-button {
+  position: absolute;
+  top: 920px;
+}
+
+.student-dashboard-header {
+  position: relative;
+  top: 180px;
+  left: 200px;
+  background-color: black;
+  height: 211px;
+  width: 574px;
+  background: transparent url("../../../assets/images/Heading-Final-2.png");
+  /* background-size: 250px 450px; */
+}
+
+.student-dashboard-button {
+  position: relative;
+  top: 100px;
+  left: 120px;
+  height: 50px;
+  width: 480px;
+}

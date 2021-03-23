@@ -1,0 +1,28 @@
+.dashboard-body {
+  position: fixed;
+  top:60px;
+  width: 100%;
+  height:100%;
+  background-size: ;
+  background: transparent url('../../../assets/images/Home-Background.jpeg') ;
+}
+
+.dashboard-text {
+  position: relative;
+  top:200px;
+  left: 200px;
+}
+
+.dashboard-phead {
+font-size: 94px;
+font-weight: 800;
+font-family: 'Times New Roman', Times, serif;
+color:white;
+}
+
+.dashboard-pbody {
+  font-size: 94px;
+  font-weight: 100;
+  font-family: 'Times New Roman', Times, serif;
+  color:white;
+  }
